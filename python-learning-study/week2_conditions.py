@@ -1,15 +1,14 @@
 ######   Part 1: Build Something: Grade Classifier and Login Validator   ######
 
 # We define the credentials of the user, setting default values
-username = "am.papoutsa"
-password = "Am@ryllis06"
+username = "lida756"
+password = "Lid@k!xexe"
 # Entering the score
 print("Enter a score between 0 and 100:")
 score = input()
 # Converting into integer
 score = int(score)
 # Depending on the number of score we calculate the grade
-
 if (score >= 50 and score <= 59):
     grade = 'F'
 elif (score >= 60 and score <= 69):    
