@@ -62,3 +62,6 @@ print("Number of zeros:", zero_counter)
 # Just undating the total sum before the end of each interation, 
 # like that 'total_sum = total_sum + number'.
 
+######     Part 4: Reflect on ChatGPT Use     ######
+
+# I didn't use ChatGPT this week at all!

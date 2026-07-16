@@ -93,3 +93,7 @@ else:
 # - How should invalid score values such as -5 or 120 be handled?
 # Setting a default value for the grade if it is not a pass or if it is an
 # invalid number.
+
+######     Part 4: Reflect on ChatGPT Use     ######
+
+# I didn't use ChatGPT this week at all!
